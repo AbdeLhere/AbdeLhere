@@ -9,7 +9,7 @@
 > You can also find my public releases and discussions on the [Cfx.re forum](https://forum.cfx.re/u/somytoc/summary)
 ---
 ## Socials:
-> Discord: https://discord.gg/2tqUw3YU5r
+> Discord: https://discord.gg/wG7WJqpvw2
 > YouTube: https://www.youtube.com/@frost_byte_studios
 > Email: ablshopteam09@gmail.com
 # Tech Stack/Tools & Platforms:
